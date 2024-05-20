@@ -3,6 +3,24 @@
 ## Tagline
 *Private Poker with friends using crypto.*
 
+## Version
+
+V 1.0.1
+1. Launch the club module
+- Supports manual table opening, automatic table opening and insurance mode
+- Support cross-game joint settlement
+2. Support invitation function within Zapry
+3. Support Korean and Japanese
+4. Fix known game bugs
+  
+V 1.0.0
+1. Launch AK Poker Beta version
+- Build a Web3 account system and connect to the wallet to log in
+2. With the help of cryptography principles, pure random shuffling is realized and users can verify themselves
+3. Support scoreboard start
+4. Support in-game diamond store
+5. Support cross-game joint settlement
+
 ## Introduction
 AK.com is a Poker platform built on Web3 technology. We offer a secure and private environment for playing Poker with friends while utilizing cryptocurrency. Our platform is powered by the AK Token (AK), which serves as the equity token for AK.com. AK Token holders have ownership and participation rights within the AK.com ecosystem, enabling them to invest in real-world assets and projects, receive dividends, and participate in platform governance.
 
