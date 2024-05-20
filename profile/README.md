@@ -5,6 +5,25 @@
 
 ## Version
 
+V 1.0.25
+1. Added internal transfers
+2. Improved hand history and stats
+3. Standardized deposit/withdrawal displays
+4. Detailed crypto deposit info
+5. In-game expenses added to personal center
+6. Updated club statement
+7. Fix known bugs
+
+V 1.0.23
+1. Personal Profile is launched on the centralized wallet
+2. Support multiple cryptocurrencies
+- Gradually support USDT, KD, AK, ALG and other cryptocurrencies
+3. The club supports cryptocurrency-based bring-in & settlement
+4. Design special chip styles for cryptocurrencies
+- The chips on the poker table can clearly identify the corresponding currency
+5. Add Mongolian
+6. Fix known bugs in multiple game modules
+
 V 1.0.1
 1. Launch the club module
 - Supports manual table opening, automatic table opening and insurance mode
