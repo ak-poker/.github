@@ -6,6 +6,14 @@
 ## Version
 
 V 1.0.25
+1. Support for CIQI to start the game
+2. Improved in-game buy-in process
+3. Enhanced game delay feature
+4. Adjusted Raise algorithm
+5. Optimized club game settlement
+6. Fixed known bugs
+
+V 1.0.25
 1. Added internal transfers
 2. Improved hand history and stats
 3. Standardized deposit/withdrawal displays
