@@ -5,7 +5,7 @@
 
 ## Version
 
-V 1.0.25
+V 1.0.26
 1. Support for CIQI to start the game
 2. Improved in-game buy-in process
 3. Enhanced game delay feature
